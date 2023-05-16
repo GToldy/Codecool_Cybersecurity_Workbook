@@ -1,0 +1,1 @@
+What_does_the_sudo_command_do_What_can_be_configured_in_the_%etc%sudoers_file

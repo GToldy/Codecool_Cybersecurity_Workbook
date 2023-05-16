@@ -1,0 +1,38 @@
+Basics_II
+Cryptography
+What is hash? What is it used for?
+What hash algorithms do you know? Which re considered secure?
+What does 256 mean in SHA256?
+What is the difference between a hash function and a -password-based key derivation function?
+How should password be stored on a server and why?
+What is the difference between a hash and a HMAC?
+What are the cryptographic primitives?
+What is hash collision? Why is it a problem?
+What is birthday paradox? Why is it relevant in -cryptography?
+What is salt? What is it used for?
+What is symmetric and asymmetric cryptography? What is the difference between them?
+What symmetric encryption algorithms do you know? Which of them are secure?
+What does 128 mean in AES128?
+What is the difference between block ciphers and stream ciphers?
+What is mode of operation in case of block ciphers?
+What is the initialization vector used for?
+What is the Diffie-Hellman algorithm used for?
+What symmetric encryption algorithms do you know?
+How does digital signature work?
+How does PGP encryption work:
+What is public key infrastructure?
+What is the role of a certificate authority (CA)?
+What is a CSR? What is the difference between a CSR and a certificate?
+What information is contained in a X509 certificate?
+What is CRL and OCSP used for? What is the difference between them?
+How key-based authentication works?
+What happens during a TLS handshake?
+What is a cipher suite?
+What are the steps of certificate validation?
+What is perfect forward secrecy?
+What complications does TLS 1.3 introduce regarding -network monitoring devices?
+What is full disk encryption? What is the difference between full disk encryption and file-by-file encryption?
+What is a TPM?
+What is a VPN? What is it used for? How does it work? What - VPN protocols do you know?
+What is site-to-site VPN? How is it different from user VPN?
+What do you know about IPsec?

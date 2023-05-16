@@ -1,0 +1,34 @@
+Basics_III
+Advanced Questions
+What is hardening?
+What topics should a hardening baseline contain? Provide some example!!
+What is the difference between full and incremental backup?
+What security measures should be taken regarding backup media?
+What activities should be logged?
+Why is it important to store the logfiles on a central server?
+Why is it important to synchronize system clocks across the infrastructure? How can you achieve this?
+What is syslog protocol used for?
+What are the steps of incident response?
+What is the difference between an APT and a regular attack?
+What is vulnerability management?
+What is NIST 800-53 used for?
+Say some examples to a control!
+What does "CIA" stand for + explain each of the terms
+Say an example of threat, vulnerability and risk!
+How does an antivirus system work?
+What is threat intelligence?
+What is a penetration test? What is the difference between an internal and external pentest?
+What is the difference between a black box and a gray box test?
+What is a vulnerability scanner used for?
+What is a red team, blue team and purple team?
+What is a SIEM? What is it used for?
+What is a supply chain attack?
+What do you know about the Cisco 3 tier network model? - Why is it useful?
+What is defense in depth?
+How does a DLP work?
+What kind of security measures would you implement to protect outbound and inbound email traffic?
+What kind of security measures would you implement to provide safe internet access to your users?
+What is a cluster? What is the difference between an active-active and an active-passive cluster?
+What is RAID? What is the difference between RAID 0 and RAID 1?
+What is the difference between a cold site, a warm site and a hot site? How does a company decide which type of backup site it needs?
+What is RTO and RPO?

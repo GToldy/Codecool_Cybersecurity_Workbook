@@ -1,0 +1,12 @@
+Basics_I
+Computer And OS Basics
+What is the difference between RAM and SSD/HDD?
+What happens to the HDD/SSD, RAM and CPU during program execution?
+What is an operating system?
+What is a kernel?
+What task does the kernel perform?
+What is the difference between user mode and kernel mode? How does the OS switch between user and kernel mode?
+What is ring 0 and ring 3?
+What is a process?
+What is a service?
+What is the essence of MAC, RBAC, DAC and ABAC -authorization models?

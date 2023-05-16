@@ -1,0 +1,1 @@
+How_does_the_switch_decide_which_VLAN_does_the_packet_arriving_from_its_trunk_interface_belong_to

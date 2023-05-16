@@ -1,0 +1,1 @@
+What_is_the_difference_between_static_and_dynamic_routing

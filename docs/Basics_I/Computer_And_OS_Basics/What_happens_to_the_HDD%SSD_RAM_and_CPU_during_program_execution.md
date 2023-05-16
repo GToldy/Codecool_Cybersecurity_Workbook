@@ -1,0 +1,1 @@
+What_happens_to_the_HDD%SSD_RAM_and_CPU_during_program_execution

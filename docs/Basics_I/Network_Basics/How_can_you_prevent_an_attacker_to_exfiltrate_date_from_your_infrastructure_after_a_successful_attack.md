@@ -1,0 +1,1 @@
+How_can_you_prevent_an_attacker_to_exfiltrate_date_from_your_infrastructure_after_a_successful_attack

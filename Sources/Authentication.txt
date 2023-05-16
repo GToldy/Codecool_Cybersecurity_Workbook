@@ -1,0 +1,16 @@
+Basics_II
+Authentication
+What authentication factors do you know? Provide an example to each of them!
+What parameters are defined in password policy? Why it is important?
+What password cracking techniques do you know? How do they work?
+What is HOTP, TOTP and OCRA? What is the difference between them?
+What is false acceptance rate and false rejection rate?
+What is challenge-response authentication?
+What is LDAP?
+What does an identity provider do? Why is it useful?
+What is a Windows domain?
+What authentication methods are used in a Windows domain? Which is secure?
+What is 802.1x? How does it work?
+What is RADIUS?
+What does AAA mean?
+How does SAML, OAUTH és OpenID Connect work and what are they used for?

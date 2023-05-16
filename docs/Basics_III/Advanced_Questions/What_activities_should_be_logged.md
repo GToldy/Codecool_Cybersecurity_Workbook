@@ -1,0 +1,1 @@
+What_activities_should_be_logged

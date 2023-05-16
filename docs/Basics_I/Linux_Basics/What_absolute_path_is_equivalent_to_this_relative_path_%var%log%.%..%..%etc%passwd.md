@@ -1,0 +1,1 @@
+What_absolute_path_is_equivalent_to_this_relative_path_%var%log%.%..%..%etc%passwd

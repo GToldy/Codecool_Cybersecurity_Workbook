@@ -1,0 +1,20 @@
+Basics_I
+Linux Basics
+What is a Linux distribution?
+What is a filesystem? Why is it useful?
+What is a partition?
+How does the ext4 filesystem work? What is a directory entry? What is an inode?
+How does permission management work in Linux?
+What does it mean if a file has the following permission settings: rwxr--r--?
+What is the octal representation of the permission settings above?
+What is SUID and SGID?
+Which command is used to change the permission settings on a file or directory?
+What is a symbolic link?
+What does the sudo command do? What can be configured in the /etc/sudoers file?
+What is the difference between sudo and su command?
+What is in /etc/passwd file?
+What is in /etc/shadow file?
+What command is used to manage services in Linux?
+How can you install a new package in Linux?
+What absolute path is equivalent to this relative path: /var/log/./../../etc/passwd?
+Why is it problematic from a security point of view if a group of administrators uses the same root account for system maintenance?
